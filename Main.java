@@ -52,7 +52,7 @@ public class Main {
 		sg.plot();
 		
 		System.out.println("Displaying Charts...");
-		System.out.println("You FPS dropped below " + minFPS + ", " + sg.getNumDrops() + "times");
+		System.out.println("You FPS dropped below " + minFPS + ", " + sg.getNumDrops() + " times");
 		System.out.println("End of Processing.");
 	}
 }

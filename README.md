@@ -15,12 +15,18 @@
 
 ### Compilation 
 
-  Coming Soon!
+  Ensure that the XCharts jar file is installed
+
+  `javac -cp .:xchart-3.8.0.jar *.java`
+  
   
 ### How do I run it?
 
   - Ensure MSI Afterburner and the MSI Afterburner remote server are both running
-  - ...
+   
+  - `java Main`
+  
+  - Follow the prompts
 
 ### Credit 
 
